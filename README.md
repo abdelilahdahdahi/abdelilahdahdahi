@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdelilahdahdahi
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in Web & Mobile app development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me -> dahdahi.contact@gmail.com
 
 <!---
