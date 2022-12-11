@@ -4,8 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-dahdahi-b6a4b4207/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@iamDahdahi) 
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://user-images.githubusercontent.com/76753930/206930526-6cbf90c4-d225-4c34-b2ee-4a9153e5a5d4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206930798-ae9b5447-041f-4ee1-b733-5facf117ac7c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206931047-c6c305ab-7a0e-4679-9bb9-623085a42738.png"  width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206931167-7c960b4c-976e-4d43-b23e-fb69099da894.png" width="60" height="50">
+
+<img src="https://user-images.githubusercontent.com/76753930/206930956-50b1bd2f-5998-4b90-b080-b03e6e57f263.png" width="45" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206932000-51704b86-a970-4e24-ab9d-44242017ab01.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206932058-2f0cda21-b42f-4b96-a671-be87de42069f.png" width="100" height="70">
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdelilahdahdahi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdelilahdahdahi&theme=dark&hide_border=true)<br/>
