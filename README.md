@@ -5,7 +5,7 @@
 📧 dahdahi.contact@gmail.com
 
 ## 💻 Tech Stack:
-<img src="https://user-images.githubusercontent.com/76753930/206930526-6cbf90c4-d225-4c34-b2ee-4a9153e5a5d4.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206930798-ae9b5447-041f-4ee1-b733-5facf117ac7c.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206931047-c6c305ab-7a0e-4679-9bb9-623085a42738.png"  width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206931167-7c960b4c-976e-4d43-b23e-fb69099da894.png" width="60" height="50">
+<img src="https://user-images.githubusercontent.com/76753930/206930526-6cbf90c4-d225-4c34-b2ee-4a9153e5a5d4.png" width="45" height="45" alt="html"> <img src="https://user-images.githubusercontent.com/76753930/206930798-ae9b5447-041f-4ee1-b733-5facf117ac7c.png" width="45" height="45" alt="css"> <img src="https://user-images.githubusercontent.com/76753930/206931047-c6c305ab-7a0e-4679-9bb9-623085a42738.png"  width="45" height="45" alt="javascript"> <img src="https://user-images.githubusercontent.com/76753930/206931167-7c960b4c-976e-4d43-b23e-fb69099da894.png" width="55" height="45" alt="bootstrap">
 
 <img src="https://user-images.githubusercontent.com/76753930/206930956-50b1bd2f-5998-4b90-b080-b03e6e57f263.png" width="45" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206932000-51704b86-a970-4e24-ab9d-44242017ab01.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206932058-2f0cda21-b42f-4b96-a671-be87de42069f.png" width="110" height="70">
 
