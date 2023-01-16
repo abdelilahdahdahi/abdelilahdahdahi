@@ -9,6 +9,9 @@
 
 <img src="https://user-images.githubusercontent.com/76753930/206930956-50b1bd2f-5998-4b90-b080-b03e6e57f263.png" width="45" height="50"> <img src="https://user-images.githubusercontent.com/76753930/206932058-2f0cda21-b42f-4b96-a671-be87de42069f.png" width="110" height="70"> <img width="55" alt="image" src="https://user-images.githubusercontent.com/76753930/211412845-65f4ed8d-2b21-403e-b4cb-15ef523e6b88.png">
 
+## 💡Currently learning:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="70" alt="nodejs"> <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="60" alt="express">
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdelilahdahdahi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
