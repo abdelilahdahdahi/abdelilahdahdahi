@@ -1,5 +1,4 @@
 # Hi, my name is Abdelilah 👋
-### just another software developer, don't expect anything :)
 
 <img src="https://raw.githubusercontent.com/freekmurze/freekmurze/master/dino.gif">
 
